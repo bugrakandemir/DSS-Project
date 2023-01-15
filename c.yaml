@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    jsmith:
+      email: bugra@gmail.com
+      name: Bugra Kandemir
+      password: $2b$12$ZnttgndsFyKVsyEtiJnoLed93TQOlpaEfIaJDCm8s9fGXnsWAu6ca # To be replaced with hashed password
+    rbriggs:
+      email: umut@gmail.com
+      name: Umut Duran
+      password: $2b$12$ultbk.V/IjejieOYKLZDX.6QU1chTJwuZZBqQ.V4EhiONyC9X3s/G # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - yavuz@gmail.com
