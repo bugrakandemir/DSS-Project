@@ -1,2 +1,2 @@
 # DSS-Project
-You can access project details from Scouters.pdf
+You can access to project details from Scouters.pdf
